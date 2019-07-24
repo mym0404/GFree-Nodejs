@@ -1,0 +1,730 @@
+[
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0003-01",
+    "name": "한국어 I",
+    "professor": "이소림",
+    "place": "",
+    "size": 14,
+    "time": [
+      {
+        "week": "mon",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      },
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0006-01",
+    "name": "영어 1 : 학술영어입문",
+    "professor": "레베카 배",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "mon",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      },
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0006-02",
+    "name": "영어 1 : 학술영어입문",
+    "professor": "레베카 배",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "mon",
+        "startTime": {
+          "hour": 13,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 14,
+          "min": 30
+        }
+      },
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 13,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 14,
+          "min": 30
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0006-03",
+    "name": "영어 1 : 학술영어입문",
+    "professor": "제니퍼 매닝",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "tue",
+        "startTime": {
+          "hour": 13,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 14,
+          "min": 30
+        }
+      },
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 13,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 14,
+          "min": 30
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0006-04",
+    "name": "영어 1 : 학술영어입문",
+    "professor": "제니퍼 매닝",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "tue",
+        "startTime": {
+          "hour": 14,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 16,
+          "min": 0
+        }
+      },
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 14,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 16,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0008-01",
+    "name": "영어 2 : 이공계 논문쓰기",
+    "professor": "데이비드",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "mon",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      },
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0008-02",
+    "name": "영어 2 : 이공계 논문쓰기",
+    "professor": "데이비드",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "mon",
+        "startTime": {
+          "hour": 13,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 14,
+          "min": 30
+        }
+      },
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 13,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 14,
+          "min": 30
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0008-03",
+    "name": "영어 2 : 이공계 논문쓰기",
+    "professor": "나타샤 파월",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "mon",
+        "startTime": {
+          "hour": 14,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 16,
+          "min": 0
+        }
+      },
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 14,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 16,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0008-04",
+    "name": "영어 2 : 이공계 논문쓰기",
+    "professor": "나타샤 파월",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "tue",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      },
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0008-05",
+    "name": "영어 2 : 이공계 논문쓰기",
+    "professor": "존 윌스",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "tue",
+        "startTime": {
+          "hour": 13,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 14,
+          "min": 30
+        }
+      },
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 13,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 14,
+          "min": 30
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0008-06",
+    "name": "영어 2 : 이공계 논문쓰기",
+    "professor": "존 윌스",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "tue",
+        "startTime": {
+          "hour": 14,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 16,
+          "min": 0
+        }
+      },
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 14,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 16,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0009-01",
+    "name": "영어 2 : 학술발표",
+    "professor": "제프리 발드윈",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "mon",
+        "startTime": {
+          "hour": 16,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 17,
+          "min": 30
+        }
+      },
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 16,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 17,
+          "min": 30
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0009-02",
+    "name": "영어 2 : 학술발표",
+    "professor": "제프리 발드윈",
+    "place": "",
+    "size": 15,
+    "time": [
+      {
+        "week": "tue",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      },
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0201-01",
+    "name": "음악 : 피아노, 바이올린, 플룻, 기타, 밴드",
+    "professor": "",
+    "place": "지스트대학A동(103)",
+    "size": 7,
+    "time": [
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 18,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 20,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0201-02",
+    "name": "음악 : 피아노, 바이올린, 플룻, 기타, 밴드",
+    "professor": "",
+    "place": "지스트대학A동(103)",
+    "size": 7,
+    "time": [
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 20,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 21,
+          "min": 30
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0606-01",
+    "name": "한국어 II",
+    "professor": "이소림",
+    "place": "",
+    "size": 14,
+    "time": [
+      {
+        "week": "tue",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      },
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0609-01",
+    "name": "한국어 III",
+    "professor": "이소림",
+    "place": "",
+    "size": 14,
+    "time": [
+      {
+        "week": "mon",
+        "startTime": {
+          "hour": 14,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 16,
+          "min": 0
+        }
+      },
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 14,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 16,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0613-01",
+    "name": "기업가정신",
+    "professor": "",
+    "place": "창업센터 B동(507호)",
+    "size": 22,
+    "time": [
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 14,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 17,
+          "min": 30
+        }
+      }
+    ],
+    "grade": 3
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0614-01",
+    "name": "실전창업론",
+    "professor": "김태완",
+    "place": "창업센터 B동(507호)",
+    "size": 22,
+    "time": [
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 14,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 17,
+          "min": 30
+        }
+      }
+    ],
+    "grade": 3
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0617-01",
+    "name": "기술벤처리더십",
+    "professor": "정수호",
+    "place": "창업센터 B동(507호)",
+    "size": 22,
+    "time": [
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 9,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 3
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0620-01",
+    "name": "과학기술과 경제",
+    "professor": "",
+    "place": "오룡관(303호)",
+    "size": 270,
+    "time": [
+      {
+        "week": "tue",
+        "startTime": {
+          "hour": 16,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 17,
+          "min": 30
+        }
+      }
+    ],
+    "grade": 1
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0623-01",
+    "name": "융합캡스톤디자인",
+    "professor": "",
+    "place": "창업센터 B동(507호)",
+    "size": 22,
+    "time": [
+      {
+        "week": "tue",
+        "startTime": {
+          "hour": 10,
+          "min": 30
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 3
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0625-01",
+    "name": "한국어 어휘 연습",
+    "professor": "이소림",
+    "place": "",
+    "size": 14,
+    "time": [
+      {
+        "week": "mon",
+        "startTime": {
+          "hour": 16,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 17,
+          "min": 30
+        }
+      },
+      {
+        "week": "wed",
+        "startTime": {
+          "hour": 16,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 17,
+          "min": 30
+        }
+      }
+    ],
+    "grade": 0
+  },
+  {
+    "year": 2019,
+    "semester": 1,
+    "code": "CC0707-01",
+    "name": "벤처재무위험관리론",
+    "professor": "",
+    "place": "창업센터 B동(507호)",
+    "size": 22,
+    "time": [
+      {
+        "week": "thu",
+        "startTime": {
+          "hour": 9,
+          "min": 0
+        },
+        "endTime": {
+          "hour": 12,
+          "min": 0
+        }
+      }
+    ],
+    "grade": 3
+  }
+]
